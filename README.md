@@ -1,6 +1,6 @@
 <h1 align="center">Aplicación Pomodoro</h1>
 
-Este proyecto fue construido con React Native.
+Este proyecto fue construido con React Native y Expo go.
 
 ## Acerca del proyecto
 
